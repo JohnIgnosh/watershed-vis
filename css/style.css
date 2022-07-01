@@ -1,0 +1,41 @@
+.text-input{
+    width:75%;
+}
+
+#rain-amountA{
+    width:15%;
+}
+#rain-amountB{
+    width:15%;
+}
+
+#warningA
+{
+    color:red;
+    display:none;
+}
+#warningB
+{
+    color:red;
+    display:none;
+}
+body{
+    font-size: 14px;
+}
+
+#values{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 25px;
+
+    text-align: center;
+}
+
+.calculations{
+    margin-top:5%
+}
+
+
+/*#precip-input{*/
+/*    margin-bottom:10px;*/
+/*}*/
